@@ -1,1 +1,1 @@
-# WDD_Lab_Animated_Penguins
+# WDD_Lab_Grades_by_Day
